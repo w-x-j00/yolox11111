@@ -1,0 +1,59 @@
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/16.jpg 130,24,541,650,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/20.jpg 1,55,331,628,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/34.jpg 117,136,499,731,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/4.jpg 106,163,219,353,0 350,125,490,358,0 508,208,610,368,0 1,99,81,284,0 46,233,128,405,0 327,296,418,445,0 438,332,544,497,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/49.jpg 168,255,911,1517,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/5.jpg 969,10,1505,907,0 332,541,600,1031,0 503,497,732,834,0 576,644,869,1149,0 788,622,1015,1131,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/64.jpg 185,40,509,615,0 1,1,231,309,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/65.jpg 281,239,1018,1456,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/70.jpg 67,105,392,704,0 376,27,763,697,0 699,240,788,439,0 43,353,136,486,0 5,165,124,396,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/78.jpg 183,69,427,469,0 420,311,527,479,0 36,339,120,426,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_102.jpg 125,135,357,537,0 1,70,125,512,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_129.jpg 998,788,1444,999,0 806,594,1163,788,0 854,375,1260,583,0 736,1,1095,169,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_157.jpg 26,131,218,378,0 240,196,343,377,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_163.jpg 73,667,265,918,0 73,434,279,696,0 254,404,406,691,0 414,491,579,804,0 571,675,760,915,0 687,467,852,761,0 911,621,1027,837,0 984,342,1160,612,0 1117,267,1281,537,0 1260,399,1425,637,0 1392,304,1573,591,0 1595,340,1741,567,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_173.jpg 111,10,1281,588,0 219,594,1498,1080,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_175.jpg 114,402,311,677,0 281,253,463,491,0 511,372,660,621,0 809,272,1046,531,0 1133,75,1346,467,0 1392,310,1538,594,0 1811,445,1920,721,0 1700,688,1881,910,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_180.jpg 514,531,1052,842,0 95,1,525,310,0 460,85,841,307,0 414,1,960,137,0 506,942,1041,1080,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_192.jpg 552,242,963,448,0 444,404,917,618,0 709,696,1092,931,0 679,996,1127,1080,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_197.jpg 357,302,503,531,0 576,356,736,537,0 925,402,1090,688,0 1079,269,1249,548,0 1309,383,1471,672,0 1687,307,1909,594,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_218.jpg 609,964,1090,1080,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_223.jpg 97,160,209,317,0 192,141,263,279,0 254,124,293,214,0 284,128,328,210,0 322,95,367,163,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_230.jpg 57,337,1173,985,0 876,1,1690,169,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_281.jpg 195,437,968,880,0 698,175,1233,429,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_283.jpg 265,369,971,802,0 736,134,1217,399,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_286.jpg 333,1,911,167,0 636,512,1263,883,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_291.jpg 681,450,1233,777,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_293.jpg 1041,861,1427,1069,0 795,656,1122,845,0 863,434,1200,612,0 760,50,1036,215,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_305.jpg 686,2404,1493,3697,0 2222,1297,2843,2568,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_306.jpg 179,1911,736,2790,0 1100,2454,1665,3368,0 2315,2190,3093,3626,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_316.jpg 1479,2104,2486,3911,0 822,1011,1843,2840,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_317.jpg 572,2126,1322,3483,0 1800,1147,2672,2711,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_334.jpg 93,73,293,418,0 288,76,512,446,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_340.jpg 1829,1354,2657,2826,0 815,1461,1815,3204,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_348.jpg 22,2597,907,3826,0 1293,2018,2043,3240,0 1972,2233,2715,3340,0 2529,397,3322,2204,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_365.jpg 243,1733,1115,2740,0 1557,1747,2293,3083,0 2000,2533,2572,3497,0 529,3033,1093,3976,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_384.jpg 943,1283,2293,3576,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_386.jpg 822,1354,1907,2554,0 1472,1811,2265,3326,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_401.jpg 54,77,493,638,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_417.jpg 457,2097,1179,3818,0 1657,1476,2257,2668,0 2736,1776,3157,2676,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_433.jpg 1,2497,822,4068,0 1293,2426,1865,3654,0 1779,1468,2365,2668,0 2365,2604,3100,3854,0 2729,1318,3379,2790,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_44.jpg 130,69,412,636,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_459.jpg 350,611,1250,1911,0 1486,754,2243,1790,0 2615,1126,3372,2368,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_470.jpg 212,1015,705,1835,0 1025,1862,1385,2509,0 1399,2015,1865,2562,0 2145,1229,2552,1962,0 2832,1275,3305,2049,0 3725,1255,4205,1955,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_493.jpg 27,361,227,667,0 336,264,552,534,0 638,88,863,453,0 903,288,1063,567,0 1222,610,1398,850,0 1295,429,1476,650,0 1441,385,1600,669,0 1576,475,1776,807,0 1690,721,1892,948,0 1838,515,1920,783,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_529.jpg 252,1609,959,2475,0 872,1009,1505,1882,0 1612,1329,2179,2195,0 2832,1209,3365,1895,0 3839,675,4479,1469,0 4079,1289,4552,1929,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_531.jpg 936,868,2322,3740,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_540.jpg 43,1054,1386,3304,0 1129,2747,2315,4361,0 1700,1176,2886,3004,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_557.jpg 55,30,355,608,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_57.jpg 108,70,366,494,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_572.jpg 336,226,1000,575,0 565,153,1084,421,0 452,67,830,210,0 1014,723,1530,931,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_578.jpg 257,641,1214,1080,0 622,550,1284,804,0 614,180,1149,558,0 417,10,1214,212,0 976,156,1430,369,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_58.jpg 8,60,500,413,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_594.jpg 581,869,1206,1080,0 509,642,1071,918,0 373,323,1014,677,0 287,99,822,375,0 438,1,854,226,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_6.jpg 7,94,342,524,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_630.jpg 155,132,387,548,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_643.jpg 94,9,427,500,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_649.jpg 96,100,403,577,0 3,233,105,433,0 84,312,141,432,0 369,358,482,526,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_67.jpg 160,88,363,395,0 436,284,511,403,0 344,13,424,118,0 399,60,501,203,0 375,137,503,293,0
+D:\Python3.8\wangluomoxing\yolox-pytorch\VOCdevkit/VOC2007/JPEGImages/test_93.jpg 163,112,351,477,0 111,108,236,392,0 1,138,135,438,0 339,149,494,469,0
